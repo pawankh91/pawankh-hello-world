@@ -1,0 +1,14 @@
+{
+    "name": "pawankh/hello-world",
+    "authors": [
+        {
+            "name": "pawankh"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
